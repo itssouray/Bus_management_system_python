@@ -20,10 +20,10 @@ UUID:- fro generating random number (32 bit).
 
 Frames used in this project :- 
 
-login Page
-home Screen
-passenger Detail 
-bus Booking
-fill-up Form
+login Page,
+home Screen,
+passenger Detail,
+bus Booking,
+fill-up Form,
 Ticket Receipt
 
